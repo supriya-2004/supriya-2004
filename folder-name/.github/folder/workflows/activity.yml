@@ -1,0 +1,32 @@
+name: Update README with GitHub Activity
+
+on:
+  schedule:
+    - cron: '0 * * * *' # Every hour, this will run
+  workflow_dispatch: # This allows manual triggering of the workflow
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: '14'
+
+      - name: Install dependencies
+        run: npm install -g github-readme-activity
+
+      - name: Fetch activity and update README
+        run: github-readme-activity --token ${{ secrets.GITHUB_TOKEN }} --username your-username
+        
+      - name: Commit updated README
+        run: |
+          git config --global user.name "supriya-2004"
+          git config --global user.email "pashinesupriya@gmail.com"
+          git add README.md
+          git commit -m "Update README with latest activity"
+          git push
