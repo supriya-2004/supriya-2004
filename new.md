@@ -6,8 +6,8 @@
 <!-- Heading | Connect linkedin gmail codolio--> 
 <h2>Connect Supriya At:</h2>
 <a href="https://www.linkedin.com/in/supriyapas284/"><img height="50" src="images/linkedin.png"/></a>
-<a href="mailto:pashinesupriya@gmail.com" target="_blank"><img height="50" src="images/linkedin.png"/></a>
-<a href="https://codolio.com/profile/supriya-2004"><img height="50" src="images/linkedin.png"/></a>
+<a href="mailto:pashinesupriya@gmail.com" target="_blank"><img height="50" src="images/gmail.png"/></a>
+<a href="https://codolio.com/profile/supriya-2004"><img height="50" src="images/figma2.png"/></a>
 
 ---
 
