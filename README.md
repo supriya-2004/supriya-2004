@@ -14,15 +14,6 @@
 
 ---
 
-<!-- Currently working on-->
-<h2> 📌 Currently Working On </h2>
-
-🌍 Sustainable Carbon Footprint Calculator – SustainaTrack
-  
-🌱 Learning Vue.js (CDN-based)
-
----
-
 <!-- Heading | Connect --> 
 <h2> Let's Connect At:</h2>
 <a href="https://www.linkedin.com/in/supriyapas284/"><img height="50" src="images/linkedin2.png"/></a>
@@ -45,6 +36,15 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle sql" width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="45" height="45"/>
 </p>
+
+---
+
+<!-- Currently working on-->
+<h2> 📌 Currently Working On </h2>
+
+🌍 Sustainable Carbon Footprint Calculator – SustainaTrack
+  
+🌱 Learning Vue.js (CDN-based)
 
 ---
 
