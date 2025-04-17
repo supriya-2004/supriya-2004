@@ -17,7 +17,7 @@
 <!-- Currently working on-->
 <h2> 📌 Currently Working On </h2>
 
-🌍 Sustainable Carbon Footprint Calculator – SustainaTrack🌍
+🌍 Sustainable Carbon Footprint Calculator – SustainaTrack
   
 🌱 Learning Vue.js (CDN-based)
 
