@@ -1,6 +1,7 @@
 <!-- Header -->
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=header&text=Meet%20Supriya!&fontSize=60&animation=fadeIn" alt="header"></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=supriya-2004&label=Profile%20views&color=0e75b6&style=flat" alt="supriya-2004" /> </p>
 
 <!--Summary | portfolio link-->
 <h2>🔍 About Me </h2>
@@ -12,6 +13,7 @@
 ✨ Driven by – "If you can't be a poet, be a poem." – a reminder to live creatively every day
 
 ---
+
 <!-- Currently working on-->
 <h2> 📌 Currently Working On </h2>
 
@@ -51,7 +53,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=supriya-2004&theme=vue-dark&show_icons=true&hide_border=false&count_private=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=supriya-2004&theme=vue-dark&hide_border=false" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=supriya-2004&theme=vue-dark&show_icons=true&hide_border=false&layout=compact" />
-  <img src="https://github-profile-trophy.vercel.app/?username=supriya-2004&title=Commit,Repositories,PullRequest,Followers&theme=darkhub" alt="GitHub Trophies">
+  <!-- <img src="https://github-profile-trophy.vercel.app/?username=supriya-2004&title=Commit,Repositories,PullRequest,Followers&theme=darkhub" alt="GitHub Trophies"> -->
 
 </div>
 <br>
