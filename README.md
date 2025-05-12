@@ -6,7 +6,7 @@
 <!--Summary | portfolio link-->
 <h2>🔍 About Me </h2>
 
-🎓 Pre - Final year B.Tech student in Computer Science & Engineering (Cyber Security) from RCOEM, Nagpur.
+🎓 Final year B.Tech student in Computer Science & Engineering (Cyber Security) from RCOEM, Nagpur.
 
 🌐 Interested in web development, cybersecurity, and hands-on projects.
 
