@@ -42,9 +42,9 @@
 <!-- Currently working on-->
 <h2> 📌 Currently Working On </h2>
 
-🌍 Sustainable Carbon Footprint Calculator – SustainaTrack
+💻 Building Cyber Security Projects
   
-🌱 Learning Vue.js (CDN-based)
+🌱 Learning Vue.js (CDN-based) 
 
 ---
 
