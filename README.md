@@ -43,8 +43,7 @@
 <h2> 📌 Currently Working On </h2>
 
 💻 Building Cyber Security Projects
-  
-🌱 Learning Vue.js (CDN-based) 
+
 
 ---
 
