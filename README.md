@@ -12,6 +12,8 @@
 
 ✨ Driven by – "If you can't be a poet, be a poem." – a reminder to live creatively every day
 
+📺 Know about me more from my [portfolio!](https://my-portfolio-supriya-pashines-projects.vercel.app/)
+
 ---
 
 <!-- Heading | Connect --> 
