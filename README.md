@@ -12,7 +12,7 @@
 
 ✨ Driven by – "If you can't be a poet, be a poem." – a reminder to live creatively every day
 
-📺 Know about me more from my [portfolio!](https://my-portfolio-supriya-pashines-projects.vercel.app/)
+📺 Know more about me from my [portfolio!](https://my-portfolio-supriya-pashines-projects.vercel.app/)
 
 ---
 
