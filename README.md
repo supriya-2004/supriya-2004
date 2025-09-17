@@ -44,8 +44,8 @@
 <!-- Currently working on-->
 <h2> 📌 Currently Working On </h2>
 
-Getting with Js Frameworks
-Processing with Smart Tour Planner - coming soon!
+- Getting with Js Frameworks
+- Processing with Smart Tour Planner - coming soon!
 
 
 ---
