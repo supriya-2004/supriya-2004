@@ -44,7 +44,8 @@
 <!-- Currently working on-->
 <h2> 📌 Currently Working On </h2>
 
-💻 Building Cyber Security Projects
+Getting with Js Frameworks
+Processing with Smart Tour Planner - coming soon!
 
 
 ---
