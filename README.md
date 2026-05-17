@@ -1,5 +1,5 @@
 <!-- Header Wave with embedded title -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%2C%20I%27m%20Supriya!%20%F0%9F%91%8B&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CS%20Engineer%20%E2%80%A2%20Cybersecurity%20%E2%80%A2%20Web%20Dev%20%E2%80%A2%20Gen%20AI&descAlignY=58&descAlign=50&descColor=c7d2fe" alt="header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%2C%20I%27m%20Supriya!%20%F0%9F%91%8B&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20%E2%80%A2%20Web%20Dev%20%E2%80%A2%20Gen%20AI&descAlignY=58&descAlign=50&descColor=c7d2fe" alt="header"/>
 
 <!-- Typing SVG — animated role titles -->
 <p align="center">
@@ -15,8 +15,8 @@
 ## 🔍 About Me
 
 - 🎓 Final year **B.Tech in CSE (Cyber Security)** at RCOEM, Nagpur
-- 🌐 Passionate about **web development**, **cybersecurity**, and **Generative & Agentic AI**
-- ✨ *"If you can't be a poet, be a poem."* — building with creativity and purpose
+- 🌐 Passionate about **web development**, **cyber security**, **networking** and **cloud**.
+- ✨ *"If you can't be a poet, be a poem."* - building with creativity and purpose
 - 📂 Check out my work → [**Portfolio**](https://supriya-portfolio-supriya-pashines-projects.vercel.app/)
 
 ---
@@ -43,13 +43,13 @@
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+<!--![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)-->
 
 ---
 
 ## 📝 Blog & Writing
 
-I write about AI, cybersecurity, and software development.
+I write about AI concepts, security recipes and occasional life thoughts.
 
 👉 [**Read my articles on Medium →**](https://medium.com/@pashinesupriya)
 
